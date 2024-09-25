@@ -8,11 +8,7 @@ Create a Robust System: Design a system that can efficiently handle different pi
 Enhance Team Collaboration: Use Agile methodologies to improve communication and project management within our team.
 
 ## Team Members
-Mason Luke
-Cedric Terrell
-Leo Barber
-Austin Haynes
-Nick Diglio
+Mason Luke, Cedric Terrell, Leo Barber, Austin Haynes, Nick Diglio
 
 ## Methodology
 Agile Framework: We utilized Agile practices, including daily scrums, sprint planning, and retrospectives, to maintain project momentum. A Kanban board was employed to visualize progress and manage tasks effectively.
